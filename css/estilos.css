@@ -286,8 +286,28 @@ p{
 
 /*Pagina Proyecto HTML-CSS*/
 .desarrollopractica1{
-    background-color: greenyellow;
     margin: 0px 10%;
     padding-bottom: 100px;
     line-height: 40px;
 }
+.desarrollopractica1 div{
+    padding: 10px;
+    margin: 20px;
+}
+.desarrollopractica1 p{
+    padding-left: 10%;
+}
+.desarrollopractica1 figure{
+    text-align: center;
+}
+.css3{
+    float: left;
+}
+.recuperar{
+    clear: both;
+}
+
+/*Pie de página*/
+footer{
+    background-color: rgb(240, 240, 240);
+text-align: center;}
